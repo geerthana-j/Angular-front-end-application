@@ -1,5 +1,4 @@
-# Angular9 SpringbootClient
-# Developed by Geerthana J 191CS326 - BIT
+# Angular9 SpringbootClient - Geerthana J 191CS165 - BIT
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.7.
 
 ## Development server
